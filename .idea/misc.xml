@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/drawable-v24/activity_main.xml" value="0.2145" />
         <entry key="..\:/Android app/Trytrythis/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2505" />
         <entry key="..\:/Android app/Trytrythis/app/src/main/res/drawable/activity_main.xml" value="0.18" />
         <entry key="..\:/Android app/Trytrythis/app/src/main/res/drawable/bg_blue.xml" value="0.1" />
@@ -12,6 +13,32 @@
         <entry key="..\:/Android app/Trytrythis/app/src/main/res/drawable/bg_yellow.xml" value="0.1" />
         <entry key="..\:/Android app/Trytrythis/app/src/main/res/drawable/circle_menu.xml" value="0.193" />
         <entry key="..\:/Android app/Trytrythis/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1305" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout-v27/register.xml" value="0.19270833333333334" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/activity_camera.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/food_activity_camera.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/food_activity_details.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/food_activity_edit_days.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/food_activity_edit_goal.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/food_activity_edit_name.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/food_activity_edit_snacks.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/layout.xml" value="0.2171875" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/mainpage_title.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/recommandations.xml" value="0.19270833333333334" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/register.xml" value="0.25" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/scanfood.xml" value="0.19270833333333334" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/search_cook_book.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sport_activity_main.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sport_activity_welcome.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sport_frag_mytrain.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sport_frag_single_train.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sport_frag_train_plan.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sport_pushup_result.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sport_pushup_video.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sport_tab_item_layout.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sports.xml" value="0.19270833333333334" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sports_activity_activitymain.xml" value="0.1" />
+        <entry key="..\:/Android app/Trytrythis/app/src/main/res/layout/sports_activity_mainpage.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Trytrythis</string>
+    <string name="NoFace">We did not detect any face</string>
+    <string name="FoundFace">We can see your face</string>
 </resources>
